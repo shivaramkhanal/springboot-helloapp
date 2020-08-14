@@ -14,11 +14,11 @@
 	<name>spring-boot</name>
 	<description>Demo project for Spring Boot</description>
 
-	<properties>
+	<properties
+		<java.version>1.8</java.version>    
 	        <sonar.projectKey>shivaramkhanal_springboot-helloapp</sonar.projectKey>
   		<sonar.organization>shivaramkhanal</sonar.organization>
  		<sonar.host.url>https://sonarcloud.com</sonar.host.url>
-		<java.version>1.8</java.version>
 	</properties>
 
 	<dependencies>
