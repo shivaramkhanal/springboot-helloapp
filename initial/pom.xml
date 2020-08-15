@@ -12,14 +12,7 @@
 	<artifactId>spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot</name>
-	<description>Demo project for Spring Boot</description>
-
-	<properties>
-		<java.version>1.8</java.version>    
-	        <sonar.projectKey>shivaramkhanal_springboot-helloapp</sonar.projectKey>
-  		<sonar.organization>shivaramkhanal</sonar.organization>
- 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-	</properties>
+	<description>Demo project for Spring Boot</description
 
 	<dependencies>
 		<dependency>
